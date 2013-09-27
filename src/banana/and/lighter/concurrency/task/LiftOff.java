@@ -1,4 +1,4 @@
-package banana.and.lighter.concurrency;
+package banana.and.lighter.concurrency.task;
 
 public class LiftOff implements Runnable {
 	/**

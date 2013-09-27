@@ -1,4 +1,6 @@
-package banana.and.lighter.concurrency;
+package banana.and.lighter.concurrency.task;
+
+import banana.and.lighter.concurrency.YieldTester;
 
 public class BasicThreads {
 
